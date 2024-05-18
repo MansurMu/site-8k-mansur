@@ -1,0 +1,66 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: black;
+    padding: 3vh;
+    color: rgb(230, 81, 52);
+
+}
+.about-me {
+    background-color: white;
+    padding: 10vh 20vh;
+    display:flex;
+   color:rgb(230, 81, 52)
+}
+.about-me p  {
+    font-size: 2vh;
+    color: rgb(230, 81, 52);
+    margin-bottom: 2vh;
+}
+.Projects{
+    background-color: white;
+    padding: 10vh 20vh;
+    text-align: center;
+    color:rgb(230, 81, 52)
+}
+.section-title{
+    font-size: 4vh;
+}
+
+.Projects p {
+    font-size: 2vh;
+    color: rgb(230, 81, 52);
+    margin-bottom: 5vh;
+}
+.my-blog{
+    background-color: white;
+    padding: 10vh 20vh;
+    text-align: end;
+    color:rgb(230, 81, 52)
+}
+
+.my-blog p {
+    font-size: 2vh;
+    color:rgb(230, 81, 52) ;
+    margin-bottom: 40px;
+}
+.my-skills{
+    background-color: white;
+    padding: 10vh 20vh;
+    color:rgb(230, 81, 52)
+}
+
+.my-skills p {
+    font-size: 2vh;
+    color:rgb(230, 81, 52) ;
+    margin-bottom: 5vh;
+}
